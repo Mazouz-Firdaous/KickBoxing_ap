@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/KickBoxing_ap/static/css/main.c6717663.css",
-    "main.js": "/KickBoxing_ap/static/js/main.22b366e2.js",
+    "main.js": "/KickBoxing_ap/static/js/main.48076627.js",
     "static/js/787.245fdfd5.chunk.js": "/KickBoxing_ap/static/js/787.245fdfd5.chunk.js",
     "static/media/Moments.mp4": "/KickBoxing_ap/static/media/Moments.cabecc1aecc453445b5b.mp4",
     "static/media/card-background.jpg": "/KickBoxing_ap/static/media/card-background.cc7a74896b95a00998cc.jpg",
@@ -37,11 +37,11 @@
     "static/media/fa-v4compatibility.woff2": "/KickBoxing_ap/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/KickBoxing_ap/index.html",
     "main.c6717663.css.map": "/KickBoxing_ap/static/css/main.c6717663.css.map",
-    "main.22b366e2.js.map": "/KickBoxing_ap/static/js/main.22b366e2.js.map",
+    "main.48076627.js.map": "/KickBoxing_ap/static/js/main.48076627.js.map",
     "787.245fdfd5.chunk.js.map": "/KickBoxing_ap/static/js/787.245fdfd5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6717663.css",
-    "static/js/main.22b366e2.js"
+    "static/js/main.48076627.js"
   ]
 }
